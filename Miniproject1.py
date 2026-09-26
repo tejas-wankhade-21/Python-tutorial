@@ -31,7 +31,7 @@ for i in range(numberofstudents):
  
  
 #Data printing
-print("Students data is : ")
+print("\nStudents data is : ")
 
 for s in studentsdata:
     print(f"Name : {s['Name']} -" f" Roll Number : {s['Roll number']} -" f" marks : {s['marks']} -" f" Grade : {s['grade']}")
