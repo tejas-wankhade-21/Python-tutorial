@@ -43,6 +43,7 @@ for s in (studentsdata):
     if s['marks'] > 33:
         print(f"{s['Name']} - marks : {s['marks']}")
         
+        
       
  
  
